@@ -1,0 +1,6 @@
+rtracer
+gen
+rand
+bench.bmp
+*.o
+.*.swp

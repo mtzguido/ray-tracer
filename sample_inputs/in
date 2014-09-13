@@ -1,0 +1,31 @@
+700 700
+#camera
+0 0 0
+#vec2screen
+0 0 1
+#screenx
+1 0 0
+#screeny
+0 1 0
+#recursion depth
+100
+#detail, (rays per pixel)
+2
+
+0 0 0
+
+2
+0 5 0
+1 1 1
+0 0 1
+
+0 5 20
+1 1 1
+0 0 1
+
+1
+
+0 0 1
+1 0 0 1
+PLANE
+-1 0 -1 24
